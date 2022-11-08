@@ -36,7 +36,6 @@ https://www.figma.com/file/0RilzT6VxhRj8x1jRs3U2K/bdapps-(Prototype)?node-id=0%3
 <br/>
 
 
-
-<img src='https://i.ibb.co/xzjmtTL/Screenshot-2022-10-09-22-58-47-79-c9a1917f9ca3d04847403924c0271b02.jpg' width='310' height='620' > &nbsp; &nbsp;
 <img src='https://i.ibb.co/5Mb8x48/Screenshot-2022-10-09-22-58-38-77-c9a1917f9ca3d04847403924c0271b02.jpg' width='320' height='620' > &nbsp; &nbsp;
+<img src='https://i.ibb.co/xzjmtTL/Screenshot-2022-10-09-22-58-47-79-c9a1917f9ca3d04847403924c0271b02.jpg' width='310' height='620' > &nbsp; &nbsp;
 <br/>
