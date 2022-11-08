@@ -26,12 +26,13 @@ https://www.figma.com/file/0RilzT6VxhRj8x1jRs3U2K/bdapps-(Prototype)?node-id=0%3
 
 
 <img src='https://i.ibb.co/2d704LK/Screenshot-2022-10-09-22-57-40-70-c9a1917f9ca3d04847403924c0271b02.jpg' width='310' height='620' > &nbsp; &nbsp;
-<img src='https://i.ibb.co/tcPqtVr/Screenshot-2022-10-09-22-58-04-34-c9a1917f9ca3d04847403924c0271b02.jpg' width='320' height='620' > &nbsp; &nbsp;
+<img src='https://i.ibb.co/x7xs6wk/Screenshot-2022-10-09-22-57-49-51-c9a1917f9ca3d04847403924c0271b02.jpg' width='320' height='620' > &nbsp; &nbsp;
 
 <br/>
 
+<img src='https://i.ibb.co/tcPqtVr/Screenshot-2022-10-09-22-58-04-34-c9a1917f9ca3d04847403924c0271b02.jpg' width='320' height='620' > &nbsp; &nbsp;
 <img src='https://i.ibb.co/CbD4d3Y/Screenshot-2022-10-09-22-58-10-53-c31b32364ce19ca8fcd150a417ecce58.jpg' width='310' height='620' > &nbsp; &nbsp;
-<img src='https://i.ibb.co/x7xs6wk/Screenshot-2022-10-09-22-57-49-51-c9a1917f9ca3d04847403924c0271b02.jpg' width='320' height='620' > &nbsp; &nbsp;
+
 <br/>
 
 
